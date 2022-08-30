@@ -1,0 +1,20 @@
+{
+  "name": "isipv4address",
+  "version": "1.0.0",
+  "description": "An IP address is a numerical label assigned to each device (e.g., computer, printer) participating in a computer network that uses the Internet Protocol for communication. There are two versions of the Internet protocol, and thus two versions of addresses. One of them is the IPv4 address.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/isIPv4Address.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/isIPv4Address/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/isIPv4Address#readme"
+}
