@@ -9,3 +9,9 @@ module.exports = solution;
 // npm i jest-cli -g
 // package.json: "scripts": { "test": "jest" }
 // npm test isIPv4Address
+
+// alternative solution
+// function solution(s) {
+//     let r = s.split('.');
+//     return r.length === 4 && r.every((x) => x != '' && !isNaN(x) && x >= 0 && x < 256);
+// }
